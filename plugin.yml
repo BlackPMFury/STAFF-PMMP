@@ -1,0 +1,12 @@
+name: STAFFSyS
+main: NameTag\Staff\Main
+api:
+ - 3.0.0
+ - 4.0.0
+version: 3.0
+author: BlackPMFury
+description: Set Staff Bitch
+commands:
+ staff:
+  description: set Staff 
+  default: op
